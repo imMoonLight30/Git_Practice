@@ -1,6 +1,6 @@
 //write program
 class helloWorld{
-    // extra statemenet
+
     public void show(){
         System.out.println("hello world");
     }
