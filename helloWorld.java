@@ -1,8 +1,12 @@
 //write program
 class helloWorld{
 
-    public show(){
-        system.out.printlin("hello world");
+    public void show(){
+        System.out.println("hello world");
+    }
+    public static void main(String[] args){
+        helloWorld obj=new helloWorld();
+        obj.show();
     }
     
 }
