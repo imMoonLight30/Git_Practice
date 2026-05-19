@@ -1,0 +1,12 @@
+prompt: "A retired chess grandmaster trains a rebellious teenage prodigy in a dusty Brooklyn café"
+genre: "drama"
+length: short          # short | medium | long
+tone: "warm, witty, a touch melancholic"
+audience: "adults"
+language: en
+# Optional: pre-seed characters. The LLM will flesh them out and add more if needed.
+characters:
+  - name: "Arkady"
+    role: "the grandmaster"
+  - name: "Jade"
+    role: "the prodigy"
